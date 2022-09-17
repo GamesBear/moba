@@ -1,0 +1,12 @@
+9036: 20:35:27.826 - ---
+9036: 20:35:27.826 - Service: "Photon Socket Server" starting
+9036: 20:35:27.826 - Config File: F:\王者2018\KingGloryS12\s12录指文件\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+9036: 20:35:27.829 - Will produce at most: 10 crash dumps
+9036: 20:35:27.829 - Service shutting down
+9036: 20:35:27.831 - Service shut down complete
+15912: 22:16:06.151 - ---
+15912: 22:16:06.151 - Service: "Photon Socket Server" starting
+15912: 22:16:06.151 - Config File: F:\王者2018\KingGloryS12\s12录制文件\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+15912: 22:16:06.154 - Will produce at most: 10 crash dumps
+15912: 22:16:06.154 - Service shutting down
+15912: 22:16:06.156 - Service shut down complete

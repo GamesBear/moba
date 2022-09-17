@@ -1,0 +1,292 @@
+4780: 01:32:54.594 - FAILED license server contact - trying next URL.
+4780: 01:33:13.730 - Connect to Photon License Server failed. Trying again later. Allowed days without contact: 2
+13976: 02:33:33.323 - FAILED license server contact - trying next URL.
+17680: 20:05:51.910 - ---
+17680: 20:05:51.910 - Service: "Photon Socket Server" starting
+17680: 20:05:51.910 - Config File: D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+17680: 20:05:51.912 - Will produce at most: 10 crash dumps
+17680: 20:05:51.912 - Action: run as exe
+17680: 20:05:51.912 - Server Starting...
+17680: 20:05:51.912 -    Tick count: 6372875 (wraps in: 49.6365 days)
+17680: 20:05:51.912 - Tick count 64: 6372875
+17680: 20:05:51.912 - Photon Version: 4.0.28.2962
+17680: 20:05:51.912 - PID: 5576
+17680: 20:05:51.912 - Config File: D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+17680: 20:05:51.913 - Will NOT log unimportant exceptions
+17680: 20:05:51.915 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+17680: 20:05:51.915 - Shutdown timeout enabled: 30000ms
+17680: 20:05:51.916 - Starting I/O thread pool with 2 threads
+17680: 20:05:51.916 - Using Standard allocator
+17680: 20:05:51.916 - Max message size: 512000
+17680: 20:05:51.916 - Starting business logic thread pool with the following settings
+17680: 20:05:51.916 - InitialThreads: 4 threads
+17680: 20:05:51.916 - MinThreads: 4 threads
+17680: 20:05:51.916 - Thread pool is fixed size
+17680: 20:05:51.916 - Starting ENet thread pool with the following settings
+17680: 20:05:51.916 - InitialThreads: 2 threads
+17680: 20:05:51.916 - MinThreads: 2 threads
+17680: 20:05:51.916 - Thread pool is fixed size
+17680: 20:05:51.916 - OnlyDispatchTimers: False
+17680: 20:05:51.916 - S2S: flow control: Max pending writes: 50
+17680: 20:05:51.916 - S2S: flow control: Max queued buffers: 200
+17680: 20:05:51.916 - S2S: flow control: Max pending writes MUX: 500
+17680: 20:05:51.916 - S2S: flow control: Max queued buffers MUX: 2000
+17680: 20:05:51.916 - S2S: MaxInboundMessageSize: 512000
+17680: 20:05:51.916 - S2S: MaxOutboundMessageSize: 512000
+17680: 20:05:51.916 - S2S: No inactivity timeout
+17680: 20:05:51.923 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+17680: 20:05:51.923 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+17680: 20:05:51.923 - WebSocket S2S: MaxInboundMessageSize: 512000
+17680: 20:05:51.923 - WebSocket S2S: MaxOutboundMessageSize: 512000
+17680: 20:05:51.923 - WebSocket S2S: No inactivity timeout
+17680: 20:05:51.923 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+17680: 20:05:51.923 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+17680: 20:05:51.923 - Per peer bandwidth limit
+17680: 20:05:51.923 - Transmit Rate Limit: 256 KB/Sec
+17680: 20:05:51.923 - Limit period: 200ms
+17680: 20:05:51.923 - Limit per period: 52428 bytes
+17680: 20:05:51.923 - Max queued data for transmission per peer: 512000 bytes
+17680: 20:05:51.923 - Minimum retransmit timeout: 200
+17680: 20:05:51.923 - No Maximum retransmit timeout
+17680: 20:05:51.923 - Minimum ENet timeout: 5000ms
+17680: 20:05:51.923 - Maximum ENet timeout: 30000ms
+17680: 20:05:51.923 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+17680: 20:05:51.923 - No RTT ACK adjustment timeout
+17680: 20:05:51.923 - Outbound ENet: MaxInboundMessageSize: 512000
+17680: 20:05:51.923 - Outbound ENet: MaxOutboundMessageSize: 512000
+17680: 20:05:51.923 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+17680: 20:05:51.934 - GetRuntime - About to load CLR - versions available:
+17680: 20:05:51.934 - v2.0.50727
+17680: 20:05:51.934 - v4.0.30319
+17680: 20:05:51.934 - Configuration requests: "v2.0.50727"
+17680: 20:05:51.934 - About to load version: "v2.0.50727"
+17680: 20:05:51.963 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+17680: 20:05:51.963 - CLRBaseDirectory set to "D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy"
+17680: 20:05:51.963 - Optimising event broadcast for 20 or more peers
+17680: 20:05:51.964 - Start: About to load CLR - versions available:
+17680: 20:05:51.964 - v2.0.50727
+17680: 20:05:51.964 - v4.0.30319
+17680: 20:05:51.964 - No preference in configuration file, will load latest.
+17680: 20:05:51.964 - About to load version: "v4.0.30319"
+17680: 20:05:51.966 - Loaded version: "v4.0.30319"
+17680: 20:05:52.236 - Photon host runtime loaded
+17680: 20:05:55.603 - License is valid.
+17680: 20:05:55.603 - Licensed for 100 concurrent connections.
+17680: 20:05:55.603 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+17680: 20:05:55.603 - ENet: Per peer bandwidth limit
+17680: 20:05:55.603 - ENet: Transmit Rate Limit: 256 KB/Sec
+17680: 20:05:55.603 - ENet: Limit period: 200ms
+17680: 20:05:55.603 - ENet: Limit per period: 52428 bytes
+17680: 20:05:55.603 - ENet: Max queued data for transmission per peer: 512000 bytes
+17680: 20:05:55.603 - ENet: Minimum retransmit timeout: 200
+17680: 20:05:55.603 - No Maximum retransmit timeout
+17680: 20:05:55.603 - ENet: Minimum timeout: 5000ms
+17680: 20:05:55.603 - ENet: Maximum timeout: 30000ms
+17680: 20:05:55.603 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+17680: 20:05:55.603 - No RTT ACK adjustment timeout
+17680: 20:05:55.604 - About to load application: MyGame6 from NNGameServer
+17680: 20:05:55.604 - Auto restart is enabled for application, existing connections will be terminated during restart
+17680: 20:05:55.604 - Application will restart 1000ms after the last change detected
+17680: 20:05:55.604 - Application will restart if files matching the following are changed: "dll;config"
+17680: 20:05:55.604 - Application will NOT restart if files matching the following are changed: "log4net.config"
+17680: 20:05:55.769 - Taking reference on default app domain
+17680: 20:05:55.998 - Application: "MyGame6" started in app domain: 2
+17680: 20:05:55.998 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+17680: 20:05:55.998 - TCP inactivity timeout: 10000ms
+17680: 20:05:55.998 - TCP disconnect timeout: 120000ms
+17680: 20:05:55.998 - MaxInboundMessageSize: 512000
+17680: 20:05:55.998 - MaxOutboundMessageSize: 512000
+17680: 20:05:55.998 - Forcing all applications ids to: "MyGame6"
+17680: 20:05:55.998 - Serving policy file requests from: "D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+17680: 20:05:55.998 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+17680: 20:05:55.999 - Forcing all applications ids to: "MyGame6"
+17680: 20:05:55.999 - MaxInboundMessageSize: 512000
+17680: 20:05:55.999 - MaxOutboundMessageSize: 512000
+17680: 20:05:55.999 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+17680: 20:05:56.000 - Adding UDP listener on: 192.168.31.156: 5055 with a listen backlog of: 500
+17680: 20:05:56.000 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+17680: 20:05:56.000 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+17680: 20:05:56.000 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+17680: 20:05:56.114 - Service is running...
+16792: 21:37:52.136 - Restarting application: "MyGame6" due to file changes
+16792: 21:37:52.136 - Application: "MyGame6" restart request (abort existing connections)
+16792: 21:37:52.149 - Failed to restart application: CManagedHost::CreateApplicationInNewAppDomain() - Failed to create new application domain for : "MyGame6" - Can't find NNGameServer.dll in D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NNGameServer\bin or D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NNGameServer\bin
+16792: 21:37:53.503 - Restarting application: "MyGame6" due to file changes
+16792: 21:37:53.503 - Application: "MyGame6" restart request (abort existing connections)
+16792: 21:37:53.569 - Taking reference on default app domain
+16792: 21:37:53.601 - Application: "MyGame6" started in app domain: 3
+16792: 21:37:55.446 - RequestApplicationStop: 2
+16792: 21:37:55.450 - Application: "MyGame6" stopped in app domain: 2 (abort existing connections)
+16792: 21:37:55.450 - Application: "MyGame6" restart complete.
+17552: 21:37:55.450 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+17556: 21:37:55.452 - Unloading Domain: ApplicationName = 'MyGame6', DomainId='2'
+17552: 21:37:55.452 - CManagedHost::OnDomainUnload() - 2
+17680: 21:38:05.952 - Service is stopped...
+17680: 21:38:05.952 - Server shutting down...
+17680: 21:38:05.952 - Shutdown monitoring enabled, 30000ms before process abort
+17680: 21:38:05.952 - Notifying CLR applications of shutdown...
+17680: 21:38:05.952 - RequestApplicationStop: 3
+17680: 21:38:05.970 - RequestStop: defalt app domain
+17680: 21:38:05.971 - Shutting down WebSocket Outbound Connection Manager...
+17680: 21:38:05.971 - Shutting down TCP Outbound Connection Manager...
+17680: 21:38:05.971 - Shutting down ENet Outbound Connection Manager...
+17680: 21:38:05.971 - Disconnecting all outbound peers...
+17680: 21:38:05.971 - Shutting down ENet host...
+17680: 21:38:05.971 - Disconnecting all peers...
+17680: 21:38:05.971 - Shutting down socket servers...
+17680: 21:38:05.971 - Shutting down ENet thread pool...
+17680: 21:38:05.971 - Shutting down TCP inactivity timers...
+17680: 21:38:05.972 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+17680: 21:38:05.972 - OnShutdownCompleted: TCP:0.0.0.0:4530
+17680: 21:38:05.972 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+17680: 21:38:05.972 - OnShutdownCompleted: UDP:127.0.0.1:5055
+17680: 21:38:05.972 - WaitingForShutdownToComplete: UDP:192.168.31.156:5055
+17680: 21:38:05.972 - OnShutdownCompleted: UDP:192.168.31.156:5055
+17680: 21:38:05.972 - Shutting down CLR applications...
+17680: 21:38:05.973 - Shutting down business logic thread pool...
+17552: 21:38:05.973 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+17680: 21:38:05.973 - Shutting down I/O thread pool...
+17680: 21:38:05.974 - Destroying servers
+17680: 21:38:05.974 - Destroying WebSocket Outbound Connection Manager
+17680: 21:38:05.974 - Destroying TCP Outbound Connection Manager
+17680: 21:38:05.974 - Destroying TCP inactivity timer
+17680: 21:38:05.974 - Destroying ENet timer wheel
+17680: 21:38:05.974 - Destroying ENet host
+17680: 21:38:05.974 - Destroying ENet outbound host
+17680: 21:38:05.974 - Destroying HTTP inactivity timer
+17680: 21:38:05.974 - Destroying HTTP host
+17680: 21:38:05.974 - Destroying HTTP Chunk host
+17680: 21:38:05.974 - Flushing ENET buffer allocator...
+17680: 21:38:05.975 - Flushing TCP buffer handle allocator...
+17680: 21:38:05.975 - Flushing stream socket allocator...
+17680: 21:38:05.975 - Flushing inbound datagram socket allocator...
+17680: 21:38:05.976 - Flushing outbound datagram socket allocator...
+17680: 21:38:05.976 - Destroying CLR dispatcher
+17680: 21:38:05.976 - Destroying CLR applications
+17680: 21:38:05.976 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+17556: 21:38:05.980 - Unloading Domain: ApplicationName = 'MyGame6', DomainId='3'
+17552: 21:38:05.987 - CManagedHost::OnDomainUnload() - 3
+17680: 21:38:06.009 - ~CCLRApplicationCollection() - Done. All objects released
+17680: 21:38:06.009 - ~CManagedHost() - Release default app domain
+17680: 21:38:06.010 - CManagedHost::OnDomainUnload() - 1
+17680: 21:38:06.010 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+17680: 21:38:06.010 - ~CManagedHost
+17680: 21:38:06.010 - Destroying ENet thread pool
+17680: 21:38:06.010 - Destroying Business logic thread pool
+17680: 21:38:06.010 - Destroying I/O thread pool
+17680: 21:38:06.010 - Destroying ENet buffer allocator
+17680: 21:38:06.010 - Destroying TCP buffer allocator
+17680: 21:38:06.010 - Destroying TCP socket allocator
+17680: 21:38:06.010 - Destroying ENet inbound socket allocator
+17680: 21:38:06.010 - Destroying ENet outbound socket allocator
+17680: 21:38:06.010 - Destroying shared datagram flow control data
+17680: 21:38:06.010 - Shutdown complete...
+17680: 21:38:06.010 - Service shutting down
+17680: 21:38:06.014 - Service shut down complete
+23164: 21:38:09.050 - ---
+23164: 21:38:09.050 - Service: "Photon Socket Server" starting
+23164: 21:38:09.050 - Config File: D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+23164: 21:38:09.052 - Will produce at most: 10 crash dumps
+23164: 21:38:09.052 - Action: run as exe
+23164: 21:38:09.053 - Server Starting...
+23164: 21:38:09.053 -    Tick count: 11910015 (wraps in: 49.5724 days)
+23164: 21:38:09.053 - Tick count 64: 11910015
+23164: 21:38:09.053 - Photon Version: 4.0.28.2962
+23164: 21:38:09.053 - PID: 21900
+23164: 21:38:09.053 - Config File: D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+23164: 21:38:09.054 - Will NOT log unimportant exceptions
+23164: 21:38:09.056 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+23164: 21:38:09.056 - Shutdown timeout enabled: 30000ms
+23164: 21:38:09.056 - Starting I/O thread pool with 2 threads
+23164: 21:38:09.057 - Using Standard allocator
+23164: 21:38:09.057 - Max message size: 512000
+23164: 21:38:09.057 - Starting business logic thread pool with the following settings
+23164: 21:38:09.057 - InitialThreads: 4 threads
+23164: 21:38:09.057 - MinThreads: 4 threads
+23164: 21:38:09.057 - Thread pool is fixed size
+23164: 21:38:09.057 - Starting ENet thread pool with the following settings
+23164: 21:38:09.057 - InitialThreads: 2 threads
+23164: 21:38:09.057 - MinThreads: 2 threads
+23164: 21:38:09.057 - Thread pool is fixed size
+23164: 21:38:09.057 - OnlyDispatchTimers: False
+23164: 21:38:09.057 - S2S: flow control: Max pending writes: 50
+23164: 21:38:09.057 - S2S: flow control: Max queued buffers: 200
+23164: 21:38:09.057 - S2S: flow control: Max pending writes MUX: 500
+23164: 21:38:09.057 - S2S: flow control: Max queued buffers MUX: 2000
+23164: 21:38:09.057 - S2S: MaxInboundMessageSize: 512000
+23164: 21:38:09.057 - S2S: MaxOutboundMessageSize: 512000
+23164: 21:38:09.057 - S2S: No inactivity timeout
+23164: 21:38:09.063 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+23164: 21:38:09.063 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+23164: 21:38:09.063 - WebSocket S2S: MaxInboundMessageSize: 512000
+23164: 21:38:09.063 - WebSocket S2S: MaxOutboundMessageSize: 512000
+23164: 21:38:09.063 - WebSocket S2S: No inactivity timeout
+23164: 21:38:09.063 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+23164: 21:38:09.064 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+23164: 21:38:09.064 - Per peer bandwidth limit
+23164: 21:38:09.064 - Transmit Rate Limit: 256 KB/Sec
+23164: 21:38:09.064 - Limit period: 200ms
+23164: 21:38:09.064 - Limit per period: 52428 bytes
+23164: 21:38:09.064 - Max queued data for transmission per peer: 512000 bytes
+23164: 21:38:09.064 - Minimum retransmit timeout: 200
+23164: 21:38:09.064 - No Maximum retransmit timeout
+23164: 21:38:09.064 - Minimum ENet timeout: 5000ms
+23164: 21:38:09.064 - Maximum ENet timeout: 30000ms
+23164: 21:38:09.064 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+23164: 21:38:09.064 - No RTT ACK adjustment timeout
+23164: 21:38:09.064 - Outbound ENet: MaxInboundMessageSize: 512000
+23164: 21:38:09.064 - Outbound ENet: MaxOutboundMessageSize: 512000
+23164: 21:38:09.064 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+23164: 21:38:09.066 - GetRuntime - About to load CLR - versions available:
+23164: 21:38:09.066 - v2.0.50727
+23164: 21:38:09.066 - v4.0.30319
+23164: 21:38:09.066 - Configuration requests: "v2.0.50727"
+23164: 21:38:09.066 - About to load version: "v2.0.50727"
+23164: 21:38:09.072 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+23164: 21:38:09.072 - CLRBaseDirectory set to "D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy"
+23164: 21:38:09.072 - Optimising event broadcast for 20 or more peers
+23164: 21:38:09.073 - Start: About to load CLR - versions available:
+23164: 21:38:09.073 - v2.0.50727
+23164: 21:38:09.073 - v4.0.30319
+23164: 21:38:09.073 - No preference in configuration file, will load latest.
+23164: 21:38:09.073 - About to load version: "v4.0.30319"
+23164: 21:38:09.074 - Loaded version: "v4.0.30319"
+23164: 21:38:09.267 - Photon host runtime loaded
+23164: 21:38:12.372 - License is valid.
+23164: 21:38:12.372 - Licensed for 100 concurrent connections.
+23164: 21:38:12.372 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+23164: 21:38:12.372 - ENet: Per peer bandwidth limit
+23164: 21:38:12.372 - ENet: Transmit Rate Limit: 256 KB/Sec
+23164: 21:38:12.372 - ENet: Limit period: 200ms
+23164: 21:38:12.372 - ENet: Limit per period: 52428 bytes
+23164: 21:38:12.372 - ENet: Max queued data for transmission per peer: 512000 bytes
+23164: 21:38:12.372 - ENet: Minimum retransmit timeout: 200
+23164: 21:38:12.372 - No Maximum retransmit timeout
+23164: 21:38:12.372 - ENet: Minimum timeout: 5000ms
+23164: 21:38:12.372 - ENet: Maximum timeout: 30000ms
+23164: 21:38:12.372 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+23164: 21:38:12.372 - No RTT ACK adjustment timeout
+23164: 21:38:12.372 - About to load application: MyGame6 from NNGameServer
+23164: 21:38:12.372 - Auto restart is enabled for application, existing connections will be terminated during restart
+23164: 21:38:12.372 - Application will restart 1000ms after the last change detected
+23164: 21:38:12.372 - Application will restart if files matching the following are changed: "dll;config"
+23164: 21:38:12.372 - Application will NOT restart if files matching the following are changed: "log4net.config"
+23164: 21:38:12.447 - Taking reference on default app domain
+23164: 21:38:12.480 - Application: "MyGame6" started in app domain: 2
+23164: 21:38:12.480 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+23164: 21:38:12.480 - TCP inactivity timeout: 10000ms
+23164: 21:38:12.480 - TCP disconnect timeout: 120000ms
+23164: 21:38:12.480 - MaxInboundMessageSize: 512000
+23164: 21:38:12.480 - MaxOutboundMessageSize: 512000
+23164: 21:38:12.480 - Forcing all applications ids to: "MyGame6"
+23164: 21:38:12.480 - Serving policy file requests from: "D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+23164: 21:38:12.480 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+23164: 21:38:12.480 - Forcing all applications ids to: "MyGame6"
+23164: 21:38:12.480 - MaxInboundMessageSize: 512000
+23164: 21:38:12.480 - MaxOutboundMessageSize: 512000
+23164: 21:38:12.480 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+23164: 21:38:12.481 - Adding UDP listener on: 192.168.31.156: 5055 with a listen backlog of: 500
+23164: 21:38:12.481 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+23164: 21:38:12.481 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+23164: 21:38:12.481 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+23164: 21:38:12.592 - Service is running...

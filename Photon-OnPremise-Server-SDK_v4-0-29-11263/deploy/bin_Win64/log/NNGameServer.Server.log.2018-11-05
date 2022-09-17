@@ -1,0 +1,2 @@
+2018-11-05 23:50:27,006 [1] INFO  NNGameServer.MyGameServer - 服务器启动啦008
+2018-11-05 23:50:27,028 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame6; AppPath=F:\王者2018\KingGloryS13\录制\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NNGameServer, Type=NNGameServer.MyGameServer 

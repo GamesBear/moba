@@ -1,0 +1,12 @@
+18776: 17:58:39.404 - ---
+18776: 17:58:39.404 - Service: "Photon Socket Server" starting
+18776: 17:58:39.404 - Config File: C:\Users\Administrator\Documents\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+18776: 17:58:39.406 - Will produce at most: 10 crash dumps
+18776: 17:58:39.406 - Service shutting down
+18776: 17:58:39.408 - Service shut down complete
+13012: 23:27:06.306 - ---
+13012: 23:27:06.306 - Service: "Photon Socket Server" starting
+13012: 23:27:06.306 - Config File: C:\Users\Administrator\Documents\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+13012: 23:27:06.307 - Will produce at most: 10 crash dumps
+13012: 23:27:06.307 - Service shutting down
+13012: 23:27:06.311 - Service shut down complete

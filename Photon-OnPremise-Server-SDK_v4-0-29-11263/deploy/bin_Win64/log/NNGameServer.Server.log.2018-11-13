@@ -1,0 +1,11 @@
+2018-11-13 21:14:11,757 [1] INFO  NNGameServer.MyGameServer - 服务器启动啦008
+2018-11-13 21:14:11,776 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame6; AppPath=F:\王者2018\KingGloryS14\录制\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NNGameServer, Type=NNGameServer.MyGameServer 
+2018-11-13 21:14:22,304 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame6
+2018-11-13 21:14:22,307 [1] INFO  NNGameServer.MyGameServer - 服务器关闭啦
+2018-11-13 21:14:22,307 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame6
+2018-11-13 21:39:10,262 [1] INFO  NNGameServer.MyGameServer - 服务器启动啦008
+2018-11-13 21:39:10,280 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame6; AppPath=F:\王者2018\KingGloryS14\录制\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NNGameServer, Type=NNGameServer.MyGameServer 
+2018-11-13 21:39:22,822 [11] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-11-13 21:39:32,315 [14] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-11-13 21:39:33,949 [6] INFO  NNGameServer.MyGameServer - Matching_Start:0
+2018-11-13 21:39:34,848 [14] INFO  NNGameServer.MyGameServer - Matching_Start:1

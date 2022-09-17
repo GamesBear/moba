@@ -1,0 +1,107 @@
+14276: 11:16:41.251 - ---
+14276: 11:16:41.251 - Service: "Photon Socket Server" starting
+14276: 11:16:41.251 - Config File: F:\王者2018\KingGloryS16\录制代码\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+14276: 11:16:41.255 - Will produce at most: 10 crash dumps
+14276: 11:16:41.255 - Action: run as exe
+14276: 11:16:41.255 - Server Starting...
+14276: 11:16:41.255 -    Tick count: 1583171 (wraps in: 49.6919 days)
+14276: 11:16:41.255 - Tick count 64: 1583171
+14276: 11:16:41.255 - Photon Version: 4.0.28.2962
+14276: 11:16:41.255 - PID: 14256
+14276: 11:16:41.256 - Config File: F:\王者2018\KingGloryS16\录制代码\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+14276: 11:16:41.256 - Will NOT log unimportant exceptions
+14276: 11:16:41.260 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+14276: 11:16:41.260 - Shutdown timeout enabled: 30000ms
+14276: 11:16:41.261 - Starting I/O thread pool with 2 threads
+14276: 11:16:41.261 - Using Standard allocator
+14276: 11:16:41.261 - Max message size: 512000
+14276: 11:16:41.261 - Starting business logic thread pool with the following settings
+14276: 11:16:41.261 - InitialThreads: 4 threads
+14276: 11:16:41.261 - MinThreads: 4 threads
+14276: 11:16:41.261 - Thread pool is fixed size
+14276: 11:16:41.262 - Starting ENet thread pool with the following settings
+14276: 11:16:41.262 - InitialThreads: 2 threads
+14276: 11:16:41.262 - MinThreads: 2 threads
+14276: 11:16:41.262 - Thread pool is fixed size
+14276: 11:16:41.262 - OnlyDispatchTimers: False
+14276: 11:16:41.262 - S2S: flow control: Max pending writes: 50
+14276: 11:16:41.262 - S2S: flow control: Max queued buffers: 200
+14276: 11:16:41.262 - S2S: flow control: Max pending writes MUX: 500
+14276: 11:16:41.262 - S2S: flow control: Max queued buffers MUX: 2000
+14276: 11:16:41.262 - S2S: MaxInboundMessageSize: 512000
+14276: 11:16:41.262 - S2S: MaxOutboundMessageSize: 512000
+14276: 11:16:41.262 - S2S: No inactivity timeout
+14276: 11:16:41.270 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+14276: 11:16:41.270 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+14276: 11:16:41.270 - WebSocket S2S: MaxInboundMessageSize: 512000
+14276: 11:16:41.270 - WebSocket S2S: MaxOutboundMessageSize: 512000
+14276: 11:16:41.270 - WebSocket S2S: No inactivity timeout
+14276: 11:16:41.270 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+14276: 11:16:41.270 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+14276: 11:16:41.270 - Per peer bandwidth limit
+14276: 11:16:41.270 - Transmit Rate Limit: 256 KB/Sec
+14276: 11:16:41.270 - Limit period: 200ms
+14276: 11:16:41.270 - Limit per period: 52428 bytes
+14276: 11:16:41.270 - Max queued data for transmission per peer: 512000 bytes
+14276: 11:16:41.270 - Minimum retransmit timeout: 200
+14276: 11:16:41.270 - No Maximum retransmit timeout
+14276: 11:16:41.270 - Minimum ENet timeout: 5000ms
+14276: 11:16:41.270 - Maximum ENet timeout: 30000ms
+14276: 11:16:41.270 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+14276: 11:16:41.270 - No RTT ACK adjustment timeout
+14276: 11:16:41.270 - Outbound ENet: MaxInboundMessageSize: 512000
+14276: 11:16:41.270 - Outbound ENet: MaxOutboundMessageSize: 512000
+14276: 11:16:41.270 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+14276: 11:16:41.275 - GetRuntime - About to load CLR - versions available:
+14276: 11:16:41.275 - v2.0.50727
+14276: 11:16:41.275 - v4.0.30319
+14276: 11:16:41.275 - Configuration requests: "v2.0.50727"
+14276: 11:16:41.275 - About to load version: "v2.0.50727"
+14276: 11:16:41.320 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+14276: 11:16:41.320 - CLRBaseDirectory set to "F:\王者2018\KingGloryS16\录制代码\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy"
+14276: 11:16:41.320 - Optimising event broadcast for 20 or more peers
+14276: 11:16:41.321 - Start: About to load CLR - versions available:
+14276: 11:16:41.321 - v2.0.50727
+14276: 11:16:41.321 - v4.0.30319
+14276: 11:16:41.321 - No preference in configuration file, will load latest.
+14276: 11:16:41.321 - About to load version: "v4.0.30319"
+14276: 11:16:41.324 - Loaded version: "v4.0.30319"
+14276: 11:16:41.562 - Photon host runtime loaded
+14276: 11:16:44.609 - License is valid.
+14276: 11:16:44.609 - Licensed for 100 concurrent connections.
+14276: 11:16:44.609 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+14276: 11:16:44.609 - ENet: Per peer bandwidth limit
+14276: 11:16:44.609 - ENet: Transmit Rate Limit: 256 KB/Sec
+14276: 11:16:44.609 - ENet: Limit period: 200ms
+14276: 11:16:44.609 - ENet: Limit per period: 52428 bytes
+14276: 11:16:44.609 - ENet: Max queued data for transmission per peer: 512000 bytes
+14276: 11:16:44.609 - ENet: Minimum retransmit timeout: 200
+14276: 11:16:44.609 - No Maximum retransmit timeout
+14276: 11:16:44.609 - ENet: Minimum timeout: 5000ms
+14276: 11:16:44.609 - ENet: Maximum timeout: 30000ms
+14276: 11:16:44.609 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+14276: 11:16:44.609 - No RTT ACK adjustment timeout
+14276: 11:16:44.609 - About to load application: MyGame6 from NNGameServer
+14276: 11:16:44.609 - Auto restart is enabled for application, existing connections will be terminated during restart
+14276: 11:16:44.609 - Application will restart 1000ms after the last change detected
+14276: 11:16:44.609 - Application will restart if files matching the following are changed: "dll;config"
+14276: 11:16:44.609 - Application will NOT restart if files matching the following are changed: "log4net.config"
+14276: 11:16:44.710 - Taking reference on default app domain
+14276: 11:16:44.780 - Application: "MyGame6" started in app domain: 2
+14276: 11:16:44.780 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+14276: 11:16:44.780 - TCP inactivity timeout: 10000ms
+14276: 11:16:44.780 - TCP disconnect timeout: 120000ms
+14276: 11:16:44.780 - MaxInboundMessageSize: 512000
+14276: 11:16:44.780 - MaxOutboundMessageSize: 512000
+14276: 11:16:44.780 - Forcing all applications ids to: "MyGame6"
+14276: 11:16:44.781 - Serving policy file requests from: "F:\王者2018\KingGloryS16\录制代码\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+14276: 11:16:44.781 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+14276: 11:16:44.781 - Forcing all applications ids to: "MyGame6"
+14276: 11:16:44.781 - MaxInboundMessageSize: 512000
+14276: 11:16:44.781 - MaxOutboundMessageSize: 512000
+14276: 11:16:44.781 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+14276: 11:16:44.782 - Adding UDP listener on: 192.168.31.156: 5055 with a listen backlog of: 500
+14276: 11:16:44.782 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+14276: 11:16:44.782 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+14276: 11:16:44.782 - Cannot enable FILE_SKIP_COMPLETION_PORT_ON_SUCCESS as "ierd_tgp_lsp64 over [MSAFD Tcpip [TCP/IP]]" does not support XP1_IFS_HANDLES. ServiceFlags1 = 0x66
+14276: 11:16:44.845 - Service is running...

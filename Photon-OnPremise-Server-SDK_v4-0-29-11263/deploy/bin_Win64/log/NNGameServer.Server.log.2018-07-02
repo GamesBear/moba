@@ -1,0 +1,9 @@
+2018-07-02 21:32:02,923 [1] INFO  NNGameServer.MyGameServer - 服务器启动啦
+2018-07-02 21:32:02,940 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame6; AppPath=D:\Program Files (x86)\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NNGameServer, Type=NNGameServer.MyGameServer 
+2018-07-02 21:33:42,398 [11] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-07-02 21:33:45,669 [14] INFO  NNGameServer.MyGameServer - 收到客户端的请求，OpCode：1100:这个是参数
+2018-07-02 21:36:51,620 [6] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-07-02 21:36:54,357 [11] INFO  NNGameServer.MyGameServer - 收到客户端的请求，OpCode：1100:这个是参数
+2018-07-02 22:00:48,947 [19] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame6
+2018-07-02 22:00:48,948 [19] INFO  NNGameServer.MyGameServer - 服务器关闭啦
+2018-07-02 22:00:48,948 [19] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame6

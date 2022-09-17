@@ -1,0 +1,38 @@
+2018-09-25 20:35:15,236 [1] INFO  NNGameServer.MyGameServer - 服务器启动啦008
+2018-09-25 20:35:15,256 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame6; AppPath=F:\王者2018\KingGloryS12\s12录指文件\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NNGameServer, Type=NNGameServer.MyGameServer 
+2018-09-25 20:35:27,823 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame6
+2018-09-25 20:35:27,838 [1] INFO  NNGameServer.MyGameServer - 服务器关闭啦
+2018-09-25 20:35:27,838 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame6
+2018-09-25 20:36:16,406 [1] INFO  NNGameServer.MyGameServer - 服务器启动啦008
+2018-09-25 20:36:16,424 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame6; AppPath=F:\王者2018\KingGloryS12\s12录制文件\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NNGameServer, Type=NNGameServer.MyGameServer 
+2018-09-25 20:39:23,296 [14] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 20:39:25,933 [13] INFO  NNGameServer.MyGameServer - Matching_Start:0
+2018-09-25 20:39:29,673 [14] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 20:39:31,529 [7] INFO  NNGameServer.MyGameServer - Matching_Start:1
+2018-09-25 20:44:15,510 [12] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 20:44:19,274 [14] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 20:44:19,850 [6] INFO  NNGameServer.MyGameServer - Matching_Start:0
+2018-09-25 20:44:20,967 [15] INFO  NNGameServer.MyGameServer - Matching_Start:1
+2018-09-25 20:51:28,928 [15] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 20:51:32,653 [7] INFO  NNGameServer.MyGameServer - Matching_Start:0
+2018-09-25 20:51:33,486 [13] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 20:51:34,392 [14] INFO  NNGameServer.MyGameServer - Matching_Start:1
+2018-09-25 20:52:37,712 [13] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 20:52:40,451 [14] INFO  NNGameServer.MyGameServer - Matching_Start:0
+2018-09-25 20:52:45,541 [14] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 20:52:46,237 [7] INFO  NNGameServer.MyGameServer - Matching_Start:1
+2018-09-25 21:22:38,528 [15] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 21:22:48,412 [6] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 21:22:49,579 [7] INFO  NNGameServer.MyGameServer - Matching_Start:0
+2018-09-25 21:22:51,559 [13] INFO  NNGameServer.MyGameServer - Matching_Start:1
+2018-09-25 21:23:29,708 [7] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 21:23:35,147 [6] INFO  NNGameServer.MyGameServer - Matching_Start:0
+2018-09-25 21:23:35,213 [13] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 21:23:36,476 [14] INFO  NNGameServer.MyGameServer - Matching_Start:1
+2018-09-25 21:25:48,670 [13] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 21:25:49,761 [12] INFO  NNGameServer.MyGameServer - Matching_Start:0
+2018-09-25 21:25:51,046 [6] INFO  NNGameServer.MyGameServer - 一个客户端链接
+2018-09-25 21:25:51,381 [13] INFO  NNGameServer.MyGameServer - Matching_Start:1
+2018-09-25 22:16:06,159 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame6
+2018-09-25 22:16:06,172 [1] INFO  NNGameServer.MyGameServer - 服务器关闭啦
+2018-09-25 22:16:06,172 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame6
